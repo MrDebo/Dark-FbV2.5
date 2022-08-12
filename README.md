@@ -17,4 +17,4 @@
 <li><code>$ ls (L kecil)</code></li>
 <li><code>$ python dark-fb.py</code></li>
 <br/>
-<img src="https://github.com/MrDebo/Dark-FbV2.5/blob/main/Screenshot_2022-08-09-23-14-56-035_com.termux.jpg" />
+<img src="https://github.com/MrDebo/Dark-FbV2.5/blob/main/Screenshot_by_debo.jpg" />
