@@ -1,7 +1,7 @@
 <ul>
 <li><code>$ pkg update && pkg upgrade</code></li>
-<li><code>$ pip2 install stdiomask</code></li>
-<li><code>$ pip2 install bs4</code></li>
+<li><code>$ pip install stdiomask</code></li>
+<li><code>$ pip install bs4</code></li>
 <li><code>$ pkg install python</code></li>
 <li><code>$ pkg install git</code></li>
 <li><code>$ git clone https://github.com/MrDebo/Dark-FbV2.5</code></li>
