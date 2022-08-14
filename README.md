@@ -1,3 +1,5 @@
+#### CARA INSTALL SCRIPT:
+   Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
 <ul>
 <li><code>$ pkg update && pkg upgrade</code></li>
 <li><code>$ pip install stdiomask</code></li>
