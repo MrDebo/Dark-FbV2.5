@@ -11,6 +11,6 @@ Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_
 <li><code>$ cd Dark-FbV2.5</code></li>
 <li><code>$ git pull</code></li>
 <li><code>$ ls (huruf L&S kecil)</code></li>
-<li><code>$ python dark-fb.py</code></li>
+<li><code>$ python dark-fb_enc.py</code></li>
 <br/>
 <img src="https://github.com/MrDebo/Dark-FbV2.5/blob/main/Screenshot_by_debo.jpg" />
